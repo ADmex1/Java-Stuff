@@ -1,4 +1,5 @@
-    public class TodoListProject{
+//1. a To Do List Project, Using the Data Structure of List
+public class TodoListProject{
         //Maximum List you can Add (Modify it yourself)
         public static String[] model = new String[25];
         public static java.util.Scanner scanner = new java.util.Scanner(System.in);
